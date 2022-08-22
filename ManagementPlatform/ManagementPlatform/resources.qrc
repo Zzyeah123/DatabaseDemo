@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/new">
+        <file>images/103.bmp</file>
+        <file>images/124.bmp</file>
+        <file>images/308.bmp</file>
+        <file>images/310.bmp</file>
+        <file>images/312.bmp</file>
+        <file>images/314.bmp</file>
+        <file>images/316.bmp</file>
+        <file>images/318.bmp</file>
+        <file>images/704.bmp</file>
+        <file>images/CheckPics(1).jpg</file>
+        <file>images/save1.bmp</file>
+        <file>images/ubdo.bmp</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>1.qrc</file>
+    </qresource>
+</RCC>

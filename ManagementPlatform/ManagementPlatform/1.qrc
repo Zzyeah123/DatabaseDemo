@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/new">
+        <file>images/306.bmp</file>
+    </qresource>
+</RCC>
